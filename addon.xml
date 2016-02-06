@@ -1,0 +1,5 @@
+
+<extension point="xbmc.python.pluginsource"
+          library="myscript.py">
+  <provides>image video</provides>
+</extension>
